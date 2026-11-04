@@ -1,1 +1,1 @@
-https://hereisjustaHolderfortest.me.vom.org
+https://raw.githubusercontent.com/DanyyQC/LinuxBalanceLoader/main/kfetch_alpine.txt
